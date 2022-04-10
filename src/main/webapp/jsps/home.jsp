@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software, Solution, Virginia, USA Office.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions and serving over 10 billion users.
+<h1 align="center">Welcome to Landmark Software, Solution, Virginia, global Office.</h1>
+<h1 align="center">We are developing and supporting quality Software Solutions and serving over 10+ billion users.
 	We also offer Training for DevOps with Linux and Cloud Engineers for best performance. Feel free to give us a call </h1>
 <hr>
 <br>
